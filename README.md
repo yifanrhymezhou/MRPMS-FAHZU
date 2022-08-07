@@ -5,7 +5,7 @@ This summer I was asked by an acquaintance to build a lightweight web management
 Prior to this, I didn't have any experience with API or jQuery - I had only built FLASK applications solely based on Python and SQL.
 ## ✍️Languages + Tools Used:
 * HTML, CSS, Bootstrap 
-* jQeury, JavaScript
+* jQuery, JavaScript
 * Python, Flask, RESTFUL API
 * SQL (MS SQL Server)
 ## 🛠️Biggest Challenge:
