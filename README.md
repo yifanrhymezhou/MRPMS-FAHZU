@@ -1,5 +1,5 @@
 # MRPMS-FAHZU
-Medical Research Project Management System (demo) for First Affiliated Hospital Zhejiang University School of Medicine
+Medical Research Project Management System (demo) for First Affiliated Hospital Zhejiang University School of Medicine 
 ## 👋Welcome!  
 This summer I was asked by an acquaintance to build a lightweight web management system for archived medical research projects at FAHZU. 
 Prior to this, I didn't have any experience with API or jQuery - I had only built FLASK applications solely based on Python and SQL.
